@@ -137,7 +137,6 @@ The Load Balancer provides a public endpoint to access the deployed application.
 
 ## **Author**
 **Neel Lokhandwala**  
-DevOps | Cloud | Kubernetes | GitOps Enthusiast
 
 ---
 
