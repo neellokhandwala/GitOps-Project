@@ -113,7 +113,7 @@ The Load Balancer provides a public endpoint to access the deployed application.
 
 ---
 
-## **Project Flow Summary (Interview Explanation)**
+## **Project Flow Summary**
 
 > “This project follows a **GitOps delivery model** where both infrastructure and application deployments are controlled by Git.  
 > The Infrastructure repository contains Terraform code that provisions AWS resources like VPC, EKS, Node Groups, and ECR. Any commit triggers a GitHub Action workflow which validates Terraform and applies changes when merged.  
